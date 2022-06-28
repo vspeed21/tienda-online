@@ -1,0 +1,14 @@
+{
+  "name": "tienda-online",
+  "version": "1.0.0",
+  "description": "Practicando sass y php",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/scss:build/styles"
+  },
+  "author": "Victor Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}
